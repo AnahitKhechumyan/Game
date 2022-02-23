@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    background-color: rgb(231, 223, 229);
+}
+.container{
+    background-color: rgb(240, 183, 227);
+    width: 40%;
+    height: 40vh;
+    margin-top:1%;    
+}
+.header{
+    text-align: center;
+}

@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    background-color: rgb(250, 246, 249);
+}
+.container{
+    background-color: rgb(248, 222, 242);
+    width: 34%;
+    height: 45vh;
+    margin-top:10%;  
+    margin-left:33%;    
+}
+.header{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+}
+.enter-number{
+    background-color: blueviolet;
+    width: 29%;
+    height: 15vh;
+    margin-top: 18%;
+    margin-left: 18%;
+    color:rgb(253, 143, 65);
+
+}
+.number{
+    width: 60%;
+    padding: 10px;
+    border-radius: 10px;
+}
+.guess{
+     padding:10px;
+}
+.points{
+    background-color: rgb(31, 83, 40);
+    width: 3%;
+    height: 40%;
+}
+h4{
+    
+}

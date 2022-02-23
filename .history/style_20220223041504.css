@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    background-color: rgb(250, 246, 249);
+}
+.container{
+    background-color: rgb(248, 222, 242);
+    width: 34%;
+    height: 45vh;
+    margin-top:10%;  
+    margin-left:33%;
+    display: inline-flex;
+    align-items: center; 
+}
+.title{
+    background-color: tomato;
+     
+    width:100%;
+}
+.header{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+}
+.enter-number{
+    margin-left:10%;
+    background-color: blueviolet;
+    width: 32%;
+     
+    color:rgb(129, 84, 63);   
+}
+.number{
+    width: 60%;
+    padding: 15px;
+    border-radius: 10px;
+}
+.guess{
+     
+     padding:15px;
+     border: none;
+     border-radius: 11px;
+     background-color: rgb(250, 197, 82);
+}
+ 
+.dice{
+    margin-left:5%;
+    background-color: rgb(31, 83, 40); 
+    width: 23%;
+    display: inline;
+}
+.first{
+    width: 50%;
+    background-color: snow;
+    float:left;  
+}
+.second{
+    width: 50%; 
+    background-color: teal;
+     float:right;
+}
+.point,  .points{
+    padding:10px;
+    margin-right:30px;
+    width: 12%;
+    color:rgb(129, 84, 63);
+    margin-left: 52%; 
+    margin-top:10%;
+    border:none;     
+}
+ h3{
+    color:rgb(129, 84, 63);
+    
+}
+button{
+    color:rgb(129, 84, 63); 
+}  
+h4{
+  color:rgb(129, 84, 63);   
+}

@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    background-color: rgb(250, 246, 249);
+}
+.container{
+    background-color: rgb(243, 211, 236);
+    width: 34%;
+    height: 45vh;
+    margin-top:10%;  
+    margin-left:33%;    
+}
+.header{
+    text-align: center;
+    font-size: 40px;
+}
+.enter-number{
+    background-color: blueviolet;
+}
+.game{
+    background-color: rgb(43, 86, 226);
+}
+.points{
+    background-color: rgb(43, 226, 73);
+}
